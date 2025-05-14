@@ -9,3 +9,5 @@ Imagen #2
 
 Cambios Integrante 2
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/15adde6e-0db1-4470-b1eb-a7551343d7db" />
+![image](https://github.com/user-attachments/assets/e6d39bba-2e1a-48d5-a3db-79c2393b54b3)
+
