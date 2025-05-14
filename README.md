@@ -8,7 +8,6 @@ SOLUCION:
 <img width="1800" alt="Captura de pantalla 2025-05-14 a la(s) 4 08 53 p  m" src="https://github.com/user-attachments/assets/2ef603ec-254d-4bb4-b2fe-241a33be54bc" />
 
 -------------------Cambios Integrante2-------------------
-
 ERROR:
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/15adde6e-0db1-4470-b1eb-a7551343d7db" />
 SOLUCION:
