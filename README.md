@@ -3,3 +3,6 @@ Cambios del lider
 
 Cambios integrante 1 
 <img width="1800" alt="Captura de pantalla 2025-05-14 a la(s) 3 57 48 p  m" src="https://github.com/user-attachments/assets/b95e982b-5218-4eb1-b4a7-6931f2f98d50" />
+
+Imagen #2
+<img width="1800" alt="Captura de pantalla 2025-05-14 a la(s) 4 08 53 p  m" src="https://github.com/user-attachments/assets/2ef603ec-254d-4bb4-b2fe-241a33be54bc" />
